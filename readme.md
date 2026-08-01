@@ -29,7 +29,7 @@ GitHub Actions 实现 [GLaDOS][glados] 自动签到
 1. 注意: Cookie 以及接口输出数据, 包含帐号敏感信息, 因此不要随意公开
 
 ---
-
+  
 [glados]: https://github.com/glados-network/GLaDOS
 [crontab]: https://crontab.guru/
 [pushplus]: https://www.pushplus.plus/
